@@ -1,1 +1,1 @@
-# COVID-RELATED-DEATHS
+#Pandemic-Loss-Registry
